@@ -1,1 +1,30 @@
 Assignment Briefing
+
+Redco
+  Kandy (200.100.10.0)
+    3rd Floor
+      Accounting - 12
+      IT - 4
+      Sever Room - 1
+    2nd Floor
+      Director Suite - 3
+      Board Room - 1
+      Admin/HR - 15
+    1st Floor
+      Reception - 2
+      Management - 10
+      Customer (WiFi)
+      Developer - 25
+
+  Galle (200.100.20.0)
+    2nd Floor
+      Admin - 10
+      HR - 5
+      Accounting - 12
+      IT - 5
+      Sever - 1
+    1st Floor
+      Reception - 2
+      Customer (WiFi)
+      Developer - 40
+      IP Cam - 5
